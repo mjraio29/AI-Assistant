@@ -2,7 +2,12 @@
 
 # Robert
 
-<img src="desktop/assets/icon.png" width="96" height="96" alt="Robert logo">
+<p align="center">
+  <img src="assets/robert-logo.png" alt="Robert Logo" width="150"/>
+</p>
+
+<h1 align="center">Robert</h1>
+<p align="center">A full-featured personal AI desktop assistant</p>
 
 A custom Groq-powered assistant, built as an engineered system rather than
 a thin API wrapper: persistent memory, function calling (tools), optional
