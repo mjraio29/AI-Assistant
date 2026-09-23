@@ -1,6 +1,10 @@
 # Robert
 
+<<<<<<< HEAD
 <img src="desktop/assets/icon.png" width="96" height="96" alt="Robert logo">
+=======
+# Robert
+>>>>>>> d9781155ce89dac6970e5607d867675a92e8b077
 
 A custom Groq-powered assistant, built as an engineered system rather than
 a thin API wrapper: persistent memory, function calling (tools), optional
